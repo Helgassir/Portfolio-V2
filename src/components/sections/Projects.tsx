@@ -3,9 +3,11 @@ import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import ProjectCard from '../ui/ProjectCard';
 
+
+
 // Import des images correctement
 import secureMessagingImg from '../../assets/secure-messaging.jpg';
-import keepCashImg from '../../assets/keepcash.jpg';
+import keepCashImg from '../../assets/keepCash.jpg';
 import fixThisImg from '../../assets/fixthis.png';
 import ofemimaImg from '../../assets/ofemima_RVB.jpg';
 
